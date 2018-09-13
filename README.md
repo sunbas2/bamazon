@@ -4,13 +4,15 @@ Hello!
 
 Please refer to the images file to see that my application works!
 
-![Image 1 -> Look at Hat, there is 194 left ](https://github.com/sunbas2/bamazon/blob/master/images/1.png "Look at the Hat inventory there is 194 left!")
+ Look at Hat item_id 7, there is 194 left ![Image 1](https://github.com/sunbas2/bamazon/blob/master/images/1.png "Look at Hat item_id 7, there is 194 left")
 
-![Image 2 -> Running code, making purchase of hat.  ](https://github.com/sunbas2/bamazon/blob/master/images/2.png "Running the code in node as you can see the user is making a Hat purchase")
+Running the code in node as you can see the user is purchasing item_id 7 a Hat!  ![Image 2](https://github.com/sunbas2/bamazon/blob/master/images/2.png "Running the code in node as you can see the user is purchasing item_id 7 a Hat!")
 
-![Image 3 -> Done, as you can see the hat inventory decreased by 1. ](https://github.com/sunbas2/bamazon/blob/master/images/3.png "The Hat inventory decreased by 1 as the user or buyer purchased the item")
+The Hat inventory decreased by 1 as the user or buyer purchased the item ![Image 3 -> Done, as you can see the hat inventory decreased by 1. ](https://github.com/sunbas2/bamazon/blob/master/images/3.png "The Hat inventory decreased by 1 as the user or buyer purchased the item")
 
 
+
+-----------------------------------------------------------------------
 
 MY SQL CODE
 CREATE TABLE products (
